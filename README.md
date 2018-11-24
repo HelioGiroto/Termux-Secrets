@@ -15,9 +15,19 @@ Dicas sobre o muito que se pode fazer com o TERMUX (app do Android que simula o 
 
 
 ### 2. Como instalar o SPEEDTEST no Termux:
+  - Simplesmente digite na linha de comando Termux: 
+  
+    **pip install --upgrade pip**    
+  
+    **pip install speedtest-cli**   
+  
+    **speedtest**                   
+
+
+  
+
+### TECLAS DE ATALHO DO TERMUX:
 
 
 
 <a href="https://github.com/HelioGiroto/Termux-Secrets/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licença"></a> 
-
-  
