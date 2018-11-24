@@ -26,7 +26,7 @@ Dicas sobre o muito que se pode fazer com o TERMUX (app do Android que simula o 
 
   
 
-### TECLAS DE ATALHO DO TERMUX:
+### - TECLAS DE ATALHO DO TERMUX:
 <i>(fonte: https://wiki.termux.com/wiki/Touch_Keyboard)</i>
 
 Volume Up + T → Tecla Tab.
