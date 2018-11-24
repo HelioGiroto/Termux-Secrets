@@ -20,4 +20,4 @@ Dicas sobre o muito que se pode fazer com o TERMUX (app do Android que simula o 
 
 <a href="https://github.com/HelioGiroto/Termux-Secrets/blob/master/LICENSE" target="_blank"><img src="https://img.shields.io/badge/license-MIT-blue.svg?style=flat-square" alt="Licença"></a> 
 
- 
+  
