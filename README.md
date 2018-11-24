@@ -1,5 +1,5 @@
 # Termux-Secrets
-Dicas sobre o muito que se pode fazer com o TERMUX (app do Android que simula o Terminal Linux)!!!
+Dicas sobre o muito que se pode fazer com o <b><a href="https://play.google.com/store/apps/details?id=com.termux">TERMUX</a></b> (app do Android que simula o Terminal Linux)!!!
 
 ### 1. Como instalar o YOUTUBE-DL no Termux:
  - Abra o aplicativo Termux no seu Celular e cole essa linha de comando:
