@@ -27,6 +27,30 @@ Dicas sobre o muito que se pode fazer com o TERMUX (app do Android que simula o 
   
 
 ### TECLAS DE ATALHO DO TERMUX:
+<i>(fonte: https://wiki.termux.com/wiki/Touch_Keyboard)</i>
+
+Volume Up + T → Tecla Tab.
+
+Volume Up + W → Tecla SETA para Cima (últimos comandos digitados na linha de comando).
+
+Volume Up + S → Tecla SETA para Baixo.
+
+Volume Up + A → Tecla SETA para Esquerda.
+
+Volume Up + D → Tecla SETA para Direita.
+
+Volume Up + L → Pipe (|).
+
+Volume Up + Q → Mostra Teclas extras.
+
+
+Volume Down + L → Ctrl + L. (Clear).
+
+Volume Down + C → Ctrl + C.
+
+Volume Down + A → Move o cursor para o começo da linha.
+
+Volume Down + E → Move o cursor para o fim da linha.
 
 
 
