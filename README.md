@@ -1,2 +1,2 @@
 # Termux-Secrets
-Dicas sobre omuito que se pode fazer com o TERMUX - app do Androi que simula o Terminal Linux!!!
+Dicas sobre o muito que se pode fazer com o TERMUX - app do Androi que simula o Terminal Linux!!!
