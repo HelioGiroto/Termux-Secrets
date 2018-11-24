@@ -10,7 +10,7 @@ Dicas sobre o muito que se pode fazer com o <b><a href="https://play.google.com/
   
  - Use o YOUTUBE-DL normalmente para baixar vídeos ou áudios (baixará na pasta atual). <a href="https://github.com/rg3/youtube-dl/blob/master/README.md#description" target="_blank">Ver exemplos</a>.
   
- - Para atualizar, digite na linha de comando do Termux:
+ - Futuramente para atualizar o youtube-dl, digite na linha de comando do Termux:
   
     **youtube-dl -U**
  
